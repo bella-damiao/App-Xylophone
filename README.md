@@ -19,7 +19,7 @@ This app is a musical soundboard that lets you play various sound effects by tap
 - Opacity Control
 - How to use StackOverflow (Implementing the found solution and customizing it)
 
-# 🎶 App-Xylophone
+# 🎶 App-Xilofone
 
 Este aplicativo é uma prancha de sons musicais que permite reproduzir vários efeitos sonoros tocando em botões.
 

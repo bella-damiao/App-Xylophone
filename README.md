@@ -1,4 +1,4 @@
-## Project by Ângela Yu
+## Project Idea by Ângela Yu
 
 # 🎶 App-Xylophone
 
@@ -18,6 +18,8 @@ This app is a musical soundboard that lets you play various sound effects by tap
 - Exception Handling
 - Opacity Control
 - How to use StackOverflow (Implementing the found solution and customizing it)
+
+***
 
 # 🎶 App-Xilofone
 
